@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/akshay/Projects/esp32_imu/ws/install/setup.sh

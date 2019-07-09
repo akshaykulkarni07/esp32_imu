@@ -1,0 +1,2 @@
+get_imu_readings
+-DCATKIN_DEVEL_PREFIX=/home/akshay/Projects/esp32_imu/ws/devel -DCMAKE_INSTALL_PREFIX=/home/akshay/Projects/esp32_imu/ws/install -G Unix Makefiles

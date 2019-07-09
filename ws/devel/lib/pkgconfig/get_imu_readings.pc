@@ -1,0 +1,8 @@
+prefix=/home/akshay/Projects/esp32_imu/ws/devel
+
+Name: get_imu_readings
+Description: Description of get_imu_readings
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/akshay/Projects/esp32_imu/ws/devel/lib 
+Requires: 
